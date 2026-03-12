@@ -7,7 +7,7 @@ subtitle: Robotics | Autonomous System
 profile:
   align: right
   image: prof_pic.jpg
-    image_circular: true
+  image_circular: true
   more_info: >
     <p>email: 2252697@tongji.edu.cn</p>
     <p>Tongji University, Shanghai, China</p>
