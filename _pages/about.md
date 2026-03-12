@@ -1,20 +1,20 @@
 ---
 layout: about
-title: about
+title: 关于我
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Robotics | Autonomous System
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+    image_circular: true
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>email: 2252697@tongji.edu.cn</p>
+    <p>Tongji University, Shanghai, China</p>
+    <p>GitHub: @BieChenovo</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: true
 
 announcements:
   enabled: true # includes a list of news items
@@ -27,8 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+# 你好，我是 BieChenovo
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+我是一名热衷于**机器人技术**的探索者。目前专注于：
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+*   **硬件控制**：熟练使用 STM32, ESP32 等微控制器。
+*   **软件算法**：ROS/ROS2 系统架构，SLAM 建图，以及路径规划算法。
+*   **工程实践**：机械结构设计 (SolidWorks) 与 PCB 电路板绘制。
+
+在这个主页上，我将展示我开发过的小型机器人项目、学习笔记以及我的一些工程思考。
