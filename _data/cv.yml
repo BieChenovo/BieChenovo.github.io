@@ -10,38 +10,26 @@ cv:
     - network: GitHub
       username: BieChenovo
 
-  address:
-    city: Shanghai
-    countryCode: CN
-
   sections:
     Education:
       - institution: Tongji University
         location: Shanghai, China
-        url: https://www.tongji.edu.cn/
         area: Robotics / Autonomous Systems
-        studyType: Undergraduate
-        start_date: ""
-        end_date: ""
-        highlights: []
+        degree: Undergraduate
+        start_date: 2022-09
+        end_date: present
+        highlights:
+          - 专注于机器人技术与自主系统方向
 
     Skills:
-      - name: 硬件控制
-        level: ""
-        icon: fa-solid fa-microchip
-        keywords: "STM32, ESP32, 嵌入式开发, PCB 设计"
-
-      - name: 软件算法
-        level: ""
-        icon: fa-solid fa-code
-        keywords: "ROS/ROS2, SLAM, 路径规划, Python, C++"
-
-      - name: 工程实践
-        level: ""
-        icon: fa-solid fa-gear
-        keywords: "SolidWorks, 机械结构设计, 3D 打印"
+      - label: 硬件控制
+        details: STM32, ESP32, 嵌入式开发, PCB 设计
+      - label: 软件算法
+        details: ROS/ROS2, SLAM, 路径规划, Python, C++
+      - label: 工程实践
+        details: SolidWorks, 机械结构设计, 3D 打印
 
     Interests:
-      - name: Robotics
-        icon: fa-solid fa-robot
-        keywords: "机器人控制, 自主导航, SLAM, 嵌入式系统"
+      - bullet: 机器人控制与自主导航
+      - bullet: SLAM 建图与路径规划
+      - bullet: 嵌入式系统开发
