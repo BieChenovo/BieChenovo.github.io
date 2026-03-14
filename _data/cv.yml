@@ -1,10 +1,11 @@
 cv:
-  name: BieChenovo
-  label: Robotics Engineer
+  name: Yichen Wang
+  label: Undergraduate Researcher
   email: 2252697@tongji.edu.cn
+  phone: (+86) 186-2373-1313
   location: Shanghai, China
   image: ""
-  summary: 同济大学学生，专注于机器人技术与自主系统开发。
+  summary: Senior student in Automation at Tongji University. Research interests in Embodied AI, Robot Learning, and Spatial Perception.
 
   social_networks:
     - network: GitHub
@@ -14,22 +15,63 @@ cv:
     Education:
       - institution: Tongji University
         location: Shanghai, China
-        area: Robotics / Autonomous Systems
-        degree: Undergraduate
+        area: Automation
+        degree: B.Eng.
         start_date: 2022-09
         end_date: present
         highlights:
-          - 专注于机器人技术与自主系统方向
+          - "GPA: 4.26/5, Weighted Score: 87.6/100"
+
+    Research Experience:
+      - company: Tongji University
+        position: "Undergraduate Thesis: Context-Aware DRL for Autonomous Mapless Navigation"
+        location: "Advisor: Prof. Chao Huang"
+        start_date: 2025-12
+        end_date: present
+        highlights:
+          - Adapted a context-aware DRL framework (CoRL 2023) by customizing the Soft Actor-Critic (SAC) algorithm in PyTorch.
+          - Optimized an attention-based encoder-decoder policy network to process viewpoint graphs, improving global planning efficiency in mapless environments.
+          - Validated the navigation policy in Gazebo simulations to evaluate its robustness against physical constraints and sensor dynamics.
+
+      - company: Tongji University
+        position: "Autonomous Navigation and SLAM Deployment for Hexapod Robots"
+        location: "Advisor: Dr. Jia Xu"
+        start_date: 2024-05
+        end_date: present
+        highlights:
+          - Deployed a real-time visual SLAM system on physical hexapod robots via ROS, mitigating real-world sensor noise and unmodeled dynamics.
+          - Co-developed a local path planner that integrates high-level spatial perception with low-level rigid body locomotion to achieve closed-loop control.
+          - Executed hardware-software integration and system debugging to ensure collision-free navigation and reliable pose estimation.
+
+      - company: Tongji University
+        position: "Multi-Agent Autonomous Vehicle Simulation Engine"
+        start_date: 2024-09
+        end_date: 2025-01
+        highlights:
+          - Engineered a customized multi-agent simulation engine from scratch utilizing C++ and Python to support large-scale AI training.
+          - Implemented core modules including the integrated path-planning algorithm and collision-detection logic based on object-oriented programming principles.
+
+      - company: Tongji University
+        position: "Optimal Dispatch Strategy for Electric Fleets via DRL and Transformers"
+        location: "Advisor: Dr. Jia Xu"
+        start_date: 2024-08
+        end_date: 2024-11
+        highlights:
+          - Developed an algorithmic framework combining Transformers and Deep Reinforcement Learning (DRL) to handle high-dimensional state-action spaces.
+          - Formulated energy-efficient routing and charging schedules to optimize sequential decision-making for electric public bus fleets.
 
     Skills:
-      - label: 硬件控制
-        details: STM32, ESP32, 嵌入式开发, PCB 设计
-      - label: 软件算法
-        details: ROS/ROS2, SLAM, 路径规划, Python, C++
-      - label: 工程实践
-        details: SolidWorks, 机械结构设计, 3D 打印
+      - label: Programming
+        details: C, C++, Python, LaTeX, Markdown, Shell
+      - label: Software & Tools
+        details: Linux, Git, PyTorch, TensorFlow, OpenCV, ROS/ROS 2
+      - label: Languages
+        details: Chinese (native), English (professional communication)
 
-    Interests:
-      - bullet: 机器人控制与自主导航
-      - bullet: SLAM 建图与路径规划
-      - bullet: 嵌入式系统开发
+    Awards:
+      - name: 2022-23 Tongji University Scholarship
+        date: 2023-10
+      - name: 2023-24 Tongji University Scholarship
+        date: 2024-10
+      - name: Second Prize in National Campus AI Algorithm Competition
+        date: 2024-11

@@ -3,19 +3,19 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: BieChenovo
+first_name: Yichen
 middle_name:
-last_name:
+last_name: Wang
 contact_note: >
-  欢迎通过邮件与我联系。
+  Feel free to reach me via email.
 description: >
-  BieChenovo 的个人主页。专注于机器人技术、自主系统、嵌入式开发与 ROS 系统。同济大学。
+  Yichen Wang's personal homepage. Senior student in Automation at Tongji University. Research interests in Embodied AI, Robot Learning, and Spatial Perception.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: robotics, ROS, embedded-systems, STM32, SLAM, autonomous-systems
-lang: zh # the language of your site (for example: en, fr, cn, ru, etc.)
+keywords: embodied-ai, robot-learning, reinforcement-learning, SLAM, autonomous-navigation, ROS
+lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://biechenovo.github.io # the base hostname & protocol for your site
@@ -91,8 +91,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: BieChenovo's Blog # blog_name will be displayed in your blog page
-blog_description: 机器人技术与工程实践的学习笔记
+blog_name: Yichen's Blog # blog_name will be displayed in your blog page
+blog_description: Notes on robotics, embodied AI, and engineering practice
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -269,8 +269,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [BieChenovo]
-  first_name: []
+  last_name: [Wang]
+  first_name: [Yichen, Y.]
 
   style: apa
   locale: en

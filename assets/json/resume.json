@@ -1,10 +1,11 @@
 {
   "basics": {
-    "name": "BieChenovo",
-    "label": "Robotics Engineer",
+    "name": "Yichen Wang",
+    "label": "Undergraduate Researcher",
     "image": "",
     "email": "2252697@tongji.edu.cn",
-    "summary": "同济大学学生，专注于机器人技术与自主系统开发。",
+    "phone": "(+86) 186-2373-1313",
+    "summary": "Senior student in Automation at Tongji University. Research interests in Embodied AI, Robot Learning, and Spatial Perception.",
     "location": {
       "city": "Shanghai",
       "countryCode": "CN"
@@ -22,42 +23,110 @@
       "institution": "Tongji University",
       "location": "Shanghai, China",
       "url": "https://www.tongji.edu.cn/",
-      "area": "Robotics / Autonomous Systems",
-      "studyType": "Undergraduate"
+      "area": "Automation",
+      "studyType": "B.Eng.",
+      "startDate": "2022-09-01",
+      "score": "GPA: 4.26/5",
+      "courses": []
+    }
+  ],
+  "work": [
+    {
+      "name": "Tongji University",
+      "position": "Undergraduate Thesis: Context-Aware DRL for Autonomous Mapless Navigation",
+      "location": "Advisor: Prof. Chao Huang",
+      "startDate": "2025-12-01",
+      "summary": "",
+      "highlights": [
+        "Adapted a context-aware DRL framework (CoRL 2023) by customizing the SAC algorithm in PyTorch.",
+        "Optimized an attention-based encoder-decoder policy network to process viewpoint graphs.",
+        "Validated the navigation policy in Gazebo simulations."
+      ]
+    },
+    {
+      "name": "Tongji University",
+      "position": "Autonomous Navigation and SLAM Deployment for Hexapod Robots",
+      "location": "Advisor: Dr. Jia Xu",
+      "startDate": "2024-05-01",
+      "summary": "",
+      "highlights": [
+        "Deployed a real-time visual SLAM system on physical hexapod robots via ROS.",
+        "Co-developed a local path planner integrating spatial perception with rigid body locomotion.",
+        "Executed hardware-software integration for collision-free navigation."
+      ]
+    },
+    {
+      "name": "Tongji University",
+      "position": "Multi-Agent Autonomous Vehicle Simulation Engine",
+      "startDate": "2024-09-01",
+      "endDate": "2025-01-01",
+      "summary": "",
+      "highlights": [
+        "Engineered a multi-agent simulation engine from scratch in C++ and Python.",
+        "Implemented path-planning algorithm and collision-detection logic."
+      ]
+    },
+    {
+      "name": "Tongji University",
+      "position": "Optimal Dispatch Strategy for Electric Fleets via DRL and Transformers",
+      "location": "Advisor: Dr. Jia Xu",
+      "startDate": "2024-08-01",
+      "endDate": "2024-11-01",
+      "summary": "",
+      "highlights": [
+        "Developed a framework combining Transformers and DRL for high-dimensional state-action spaces.",
+        "Formulated energy-efficient routing and charging schedules for electric bus fleets."
+      ]
     }
   ],
   "skills": [
     {
-      "name": "硬件控制",
-      "icon": "fa-solid fa-microchip",
-      "keywords": ["STM32", "ESP32", "嵌入式开发", "PCB 设计"]
-    },
-    {
-      "name": "软件算法",
+      "name": "Programming",
       "icon": "fa-solid fa-code",
-      "keywords": ["ROS/ROS2", "SLAM", "路径规划", "Python", "C++"]
+      "keywords": ["C", "C++", "Python", "LaTeX", "Markdown", "Shell"]
     },
     {
-      "name": "工程实践",
-      "icon": "fa-solid fa-gear",
-      "keywords": ["SolidWorks", "机械结构设计", "3D 打印"]
+      "name": "Software & Tools",
+      "icon": "fa-solid fa-toolbox",
+      "keywords": ["Linux", "Git", "PyTorch", "TensorFlow", "OpenCV", "ROS/ROS 2"]
     }
   ],
   "languages": [
     {
-      "language": "中文",
-      "fluency": "母语"
+      "language": "Chinese",
+      "fluency": "Native speaker"
     },
     {
       "language": "English",
-      "fluency": "Fluent"
+      "fluency": "Professional communication"
+    }
+  ],
+  "awards": [
+    {
+      "title": "2022-23 Tongji University Scholarship",
+      "date": "2023-10-01",
+      "awarder": "Tongji University"
+    },
+    {
+      "title": "2023-24 Tongji University Scholarship",
+      "date": "2024-10-01",
+      "awarder": "Tongji University"
+    },
+    {
+      "title": "Second Prize in National Campus AI Algorithm Competition",
+      "date": "2024-11-01"
     }
   ],
   "interests": [
     {
-      "name": "Robotics",
+      "name": "Embodied AI & Robot Learning",
       "icon": "fa-solid fa-robot",
-      "keywords": ["机器人控制", "自主导航", "SLAM", "嵌入式系统"]
+      "keywords": ["Reinforcement Learning", "Autonomous Navigation", "Robust Locomotion"]
+    },
+    {
+      "name": "Spatial Perception & State Estimation",
+      "icon": "fa-solid fa-eye",
+      "keywords": ["Visual SLAM", "Environment Understanding", "Pose Estimation"]
     }
   ]
 }
