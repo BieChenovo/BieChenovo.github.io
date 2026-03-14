@@ -10,7 +10,6 @@ profile:
   image_circular: true
   more_info: >
     <p>Email: 2252697@tongji.edu.cn</p>
-    <p>Tongji University, Shanghai, China</p>
     <p>GitHub: @BieChenovo</p>
 
 selected_papers: false
