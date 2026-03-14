@@ -48,6 +48,7 @@
       "position": "Autonomous Navigation and SLAM Deployment for Hexapod Robots",
       "location": "Advisor: Dr. Jia Xu",
       "startDate": "2024-05-01",
+      "endDate": "2025-09-01",
       "summary": "",
       "highlights": [
         "Deployed a real-time visual SLAM system on physical hexapod robots via ROS.",

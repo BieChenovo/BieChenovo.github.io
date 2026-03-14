@@ -33,4 +33,4 @@ My research interests lie at the intersection of **Embodied AI** and **Robotics*
 - **Embodied AI & Robot Learning** — Reinforcement learning for autonomous navigation and robust locomotion.
 - **Spatial Perception & State Estimation** — Real-time visual SLAM and environment understanding for embodied agents.
 
-I am currently working on my undergraduate thesis on context-aware deep reinforcement learning for autonomous mapless navigation, advised by Prof. Chao Huang. I also work on deploying autonomous navigation and SLAM systems on hexapod robots, advised by Dr. Jia Xu.
+I am currently working on my undergraduate thesis on context-aware deep reinforcement learning for autonomous mapless navigation, advised by Prof. Chao Huang. Previously, I worked on deploying autonomous navigation and SLAM systems on hexapod robots, advised by Dr. Jia Xu.

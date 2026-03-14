@@ -36,7 +36,7 @@ cv:
         position: "Autonomous Navigation and SLAM Deployment for Hexapod Robots"
         location: "Advisor: Dr. Jia Xu"
         start_date: 2024-05
-        end_date: present
+        end_date: 2025-09
         highlights:
           - Deployed a real-time visual SLAM system on physical hexapod robots via ROS, mitigating real-world sensor noise and unmodeled dynamics.
           - Co-developed a local path planner that integrates high-level spatial perception with low-level rigid body locomotion to achieve closed-loop control.
