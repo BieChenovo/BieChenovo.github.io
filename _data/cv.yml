@@ -19,8 +19,7 @@ cv:
         degree: B.Eng.
         start_date: 2022-09
         end_date: present
-        highlights:
-          - "GPA: 4.26/5, Weighted Score: 87.6/100"
+        highlights: []
 
     Research Experience:
       - company: Tongji University
