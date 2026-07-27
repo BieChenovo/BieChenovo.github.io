@@ -26,7 +26,7 @@ latest_posts:
   limit: 3
 ---
 
-I received my B.Eng. in **Automation** from [Tongji University](https://www.tongji.edu.cn/) in June 2026, with a GPA of 4.34/5.0 (weighted score: 88.4/100).
+I received my B.Eng. in **Automation** from [Tongji University](https://www.tongji.edu.cn/) in June 2026.
 
 My research lies at the intersection of **Embodied AI** and **robotics**. I am particularly interested in building learning-based control policies that connect perception and action in complex environments.
 
