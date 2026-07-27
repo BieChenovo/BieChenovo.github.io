@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: true
   more_info: >
-    <p>Email: 2252697@tongji.edu.cn</p>
-    <p>GitHub: @BieChenovo</p>
+    <p><a href="mailto:2252697@tongji.edu.cn">2252697@tongji.edu.cn</a></p>
+    <p><a href="https://github.com/BieChenovo">github.com/BieChenovo</a></p>
 
 selected_papers: false
 social: true
@@ -26,11 +26,13 @@ latest_posts:
   limit: 3
 ---
 
-I am a senior undergraduate student in **Automation** at [Tongji University](https://www.tongji.edu.cn/), Shanghai, China.
+I received my B.Eng. in **Automation** from [Tongji University](https://www.tongji.edu.cn/) in June 2026, with a GPA of 4.34/5.0 (weighted score: 88.4/100).
 
-My research interests lie at the intersection of **Embodied AI** and **Robotics**, with a focus on:
+My research lies at the intersection of **Embodied AI** and **robotics**. I am particularly interested in building learning-based control policies that connect perception and action in complex environments.
 
-- **Embodied AI & Robot Learning** — Reinforcement learning for autonomous navigation and robust locomotion.
-- **Spatial Perception & State Estimation** — Real-time visual SLAM and environment understanding for embodied agents.
+- **Embodied AI & Robot Learning** — reinforcement learning, Vision-Language-Action models, and World Action Models for autonomous navigation and control.
+- **Spatial Perception & State Estimation** — robust visual SLAM, multi-sensor fusion, and real-time environment understanding for mobile robots.
 
-I am currently working on my undergraduate thesis on context-aware deep reinforcement learning for autonomous mapless navigation, advised by Prof. Chao Huang. Previously, I worked on deploying autonomous navigation and SLAM systems on hexapod robots, advised by Dr. Jia Xu.
+For my undergraduate thesis, advised by Prof. Chao Huang, I developed a context-aware reinforcement learning method for mapless navigation. By combining graph-based spatial encoding with temporal memory and intrinsic curiosity, the full model achieved an average success rate of **0.84** and SPL of **0.66** across four simulated environments.
+
+Previously, advised by Dr. Jia Xu, I led perception and planning work for an autonomous hexapod robot and developed a Transformer-enhanced reinforcement learning framework for electric bus fleet dispatch. See the [research page]({% link _pages/projects.md %}) for details.
