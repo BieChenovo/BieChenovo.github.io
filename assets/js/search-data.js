@@ -369,10 +369,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-个人主页正式上线-欢迎访问",
-          title: '个人主页正式上线！欢迎访问。',
-          description: "",
-          section: "News",},{id: "news-graduated-from-tongji-university-with-a-b-eng-in-automation",
+            },},{id: "news-graduated-from-tongji-university-with-a-b-eng-in-automation",
           title: 'Graduated from Tongji University with a B.Eng. in Automation.',
           description: "",
           section: "News",},{id: "news-joined-the-pairs-lab-at-hkust-guangzhou-as-a-research-assistant-advised-by-prof-fangqiang-ding",
