@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined the PAIRS Lab at HKUST (Guangzhou) as a Research Assistant, advised by Prof. Fangqiang Ding.
+Joined the [PAIRS Lab](https://pairslab.github.io/) at HKUST (Guangzhou) as a Research Assistant, advised by Prof. Fangqiang Ding.

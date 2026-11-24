@@ -9,11 +9,11 @@ last_name: Wang
 contact_note: >
   Feel free to reach me via email.
 description: >
-  Yichen Wang's personal homepage. Research Assistant at the PAIRS Lab, HKUST (Guangzhou), working on Embodied AI, Spatial Perception, and Machine Learning.
+  Yichen Wang is a research assistant at the PAIRS Lab at HKUST (Guangzhou) studying how physical agents use spatial memory for robot navigation.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: embodied-ai, robot-learning, reinforcement-learning, SLAM, autonomous-navigation, ROS
+keywords: physical agents, spatial memory, robot navigation
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🤖 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
